@@ -12,7 +12,6 @@ steps:
         id: potentialCases
         source: potentialCases
   '2':
-    run: a.cwl
     out:
     - output
     in:
@@ -23,7 +22,6 @@ steps:
         id: potentialCases
         source: 1/output
   '3':
-    run: a.cwl
     out:
     - output
     in:
@@ -34,7 +32,6 @@ steps:
         id: potentialCases
         source: 2/output
   '4':
-    run: a.cwl
     out:
     - output
     in:
@@ -45,7 +42,6 @@ steps:
         id: potentialCases
         source: 3/output
   '5':
-    run: a.cwl
     out:
     - output
     in:
@@ -56,7 +52,6 @@ steps:
         id: potentialCases
         source: 4/output
   '6':
-    run: a.cwl
     out:
     - output
     in:
