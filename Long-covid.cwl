@@ -12,7 +12,7 @@ steps:
         id: potentialCases
         source: potentialCases
   '2':
-    run: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/Long-covid.cwl
+    run: a.cwl
     out:
     - output
     in:
@@ -23,7 +23,7 @@ steps:
         id: potentialCases
         source: 1/output
   '3':
-    run: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/Long-covid.cwl
+    run: a.cwl
     out:
     - output
     in:
@@ -34,7 +34,7 @@ steps:
         id: potentialCases
         source: 2/output
   '4':
-    run: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/Long-covid.cwl
+    run: a.cwl
     out:
     - output
     in:
@@ -45,7 +45,7 @@ steps:
         id: potentialCases
         source: 3/output
   '5':
-    run: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/Long-covid.cwl
+    run: a.cwl
     out:
     - output
     in:
@@ -56,7 +56,7 @@ steps:
         id: potentialCases
         source: 4/output
   '6':
-    run: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/Long-covid.cwl
+    run: a.cwl
     out:
     - output
     in:
