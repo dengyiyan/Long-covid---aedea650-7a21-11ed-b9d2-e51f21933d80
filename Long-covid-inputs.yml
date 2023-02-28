@@ -1,0 +1,261 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2-1:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-result---tadds.py
+inputModule2-2:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/positive-covid19---tadds.py
+inputModule2-3:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-exposure---tadds.py
+inputModule2-4:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-suspected---tadds.py
+inputModule2-5:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-confirmed---tadds.py
+inputModule2-6:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-coronavirus---tadds.py
+inputModule2-7:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19---tadds.py
+inputModule2-8:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/covid19-hospitalisation---hes.py
+inputModule2-9:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/exclude-long-covid---tadds.py
+inputModule2-10:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/exclude-long-covid-assessment---tadds.py
+inputModule2-11:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-tiredness---tadds-31-to-186-days-after-covid19.py
+inputModule2-12:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms---tadds-31-to-186-days-after-covid19.py
+inputModule2-13:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-muscle---tadds-31-to-186-days-after-covid19.py
+inputModule2-14:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-concentrating---tadds-31-to-186-days-after-covid19.py
+inputModule2-15:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-smell---tadds-31-to-186-days-after-covid19.py
+inputModule2-16:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-sleeping---tadds-31-to-186-days-after-covid19.py
+inputModule2-17:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-headache---tadds-31-to-186-days-after-covid19.py
+inputModule2-18:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-anxiety---tadds-31-to-186-days-after-covid19.py
+inputModule2-19:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-confusion---tadds-31-to-186-days-after-covid19.py
+inputModule2-20:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-dizziness---tadds-31-to-186-days-after-covid19.py
+inputModule2-21:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-cough---tadds-31-to-186-days-after-covid19.py
+inputModule2-22:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-palpitations---tadds-31-to-186-days-after-covid19.py
+inputModule2-23:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-vomiting---tadds-31-to-186-days-after-covid19.py
+inputModule2-24:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-diarrhoea---tadds-31-to-186-days-after-covid19.py
+inputModule2-25:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-fever---tadds-31-to-186-days-after-covid19.py
+inputModule2-26:
+  class: File
+  path: Long-covid---9c236c30-7a21-11ed-b9d2-e51f21933d80/python/output-diagnosis-of-long-covid-symptoms-31-days-to-186-days-after-covid19-following-covid19-hospitalisation-without-a-record-of-long-covid-cases.py
+inputModule3-1:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19-result---tadds.py
+inputModule3-2:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/positive-covid19---tadds.py
+inputModule3-3:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19-exposure---tadds.py
+inputModule3-4:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19-suspected---tadds.py
+inputModule3-5:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19-confirmed---tadds.py
+inputModule3-6:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19-coronavirus---tadds.py
+inputModule3-7:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/covid19---tadds.py
+inputModule3-8:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-hospitalisation---hes.py
+inputModule3-9:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/exclude-long-covid---tadds.py
+inputModule3-10:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/exclude-long-covid-assessment---tadds.py
+inputModule3-11:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-tiredness---tadds-31-to-186-days-after-covid19.py
+inputModule3-12:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms---tadds-31-to-186-days-after-covid19.py
+inputModule3-13:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-muscle---tadds-31-to-186-days-after-covid19.py
+inputModule3-14:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-concentrating---tadds-31-to-186-days-after-covid19.py
+inputModule3-15:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-smell---tadds-31-to-186-days-after-covid19.py
+inputModule3-16:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-sleeping---tadds-31-to-186-days-after-covid19.py
+inputModule3-17:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-headache---tadds-31-to-186-days-after-covid19.py
+inputModule3-18:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-anxiety---tadds-31-to-186-days-after-covid19.py
+inputModule3-19:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-confusion---tadds-31-to-186-days-after-covid19.py
+inputModule3-20:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-dizziness---tadds-31-to-186-days-after-covid19.py
+inputModule3-21:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-cough---tadds-31-to-186-days-after-covid19.py
+inputModule3-22:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-palpitations---tadds-31-to-186-days-after-covid19.py
+inputModule3-23:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-vomiting---tadds-31-to-186-days-after-covid19.py
+inputModule3-24:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-diarrhoea---tadds-31-to-186-days-after-covid19.py
+inputModule3-25:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/long-covid-symptoms-fever---tadds-31-to-186-days-after-covid19.py
+inputModule3-26:
+  class: File
+  path: Long-covid---a7602980-7a21-11ed-b9d2-e51f21933d80/python/output-diagnosis-of-long-covid-symptoms-31-days-to-186-days-after-covid19-without-a-record-of-long-covid-and-covid19-hospitalisation-cases.py
+inputModule4-1:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-result---tadds.py
+inputModule4-2:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/positive-covid19---tadds.py
+inputModule4-3:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-exposure---tadds.py
+inputModule4-4:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-suspected---tadds.py
+inputModule4-5:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-confirmed---tadds.py
+inputModule4-6:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-coronavirus---tadds.py
+inputModule4-7:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19---tadds.py
+inputModule4-8:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/covid19-hospitalisation---hes.py
+inputModule4-9:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/long-covid---tadds.py
+inputModule4-10:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/long-covid-assessment---tadds.py
+inputModule4-11:
+  class: File
+  path: Long-covid---a9e48a70-7a21-11ed-b9d2-e51f21933d80/python/output-long-covid-following-covid19-hospitalisation-and-covid19-cases.py
+inputModule5-1:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19-result---tadds.py
+inputModule5-2:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/positive-covid19---tadds.py
+inputModule5-3:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19-exposure---tadds.py
+inputModule5-4:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19-suspected---tadds.py
+inputModule5-5:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19-confirmed---tadds.py
+inputModule5-6:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19-coronavirus---tadds.py
+inputModule5-7:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/covid19---tadds.py
+inputModule5-8:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-hospitalisation---hes.py
+inputModule5-9:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/long-covid---tadds.py
+inputModule5-10:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/long-covid-assessment---tadds.py
+inputModule5-11:
+  class: File
+  path: Long-covid---ace80670-7a21-11ed-b9d2-e51f21933d80/python/output-long-covid-following-covid19-without-a-record-of-covid19-hospitalisation-cases.py
+inputModule6-1:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-result---tadds.py
+inputModule6-2:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-positive-covid19---tadds.py
+inputModule6-3:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-exposure---tadds.py
+inputModule6-4:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-suspected---tadds.py
+inputModule6-5:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-confirmed---tadds.py
+inputModule6-6:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19-coronavirus---tadds.py
+inputModule6-7:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/exclude-covid19---tadds.py
+inputModule6-8:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/long-covid---tadds.py
+inputModule6-9:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/long-covid-assessment---tadds.py
+inputModule6-10:
+  class: File
+  path: Long-covid---aede7f40-7a21-11ed-b9d2-e51f21933d80/python/output-long-covid-without-a-record-of-covid19-cases.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
