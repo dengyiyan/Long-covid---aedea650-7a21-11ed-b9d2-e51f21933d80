@@ -679,5 +679,3 @@ outputs:
     outputSource: 7/output
     outputBinding:
       glob: '*.csv'
-requirements:
-  SubworkflowFeatureRequirement: {}
