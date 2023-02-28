@@ -1,10 +1,12 @@
 cwlVersion: v1.0
+class: Workflow
 requirements:
   ScatterFeatureRequirement: {}
   SubworkflowFeatureRequirement: {}
   MultipleInputFeatureRequirement: {}
   StepInputExpressionRequirement: {}
   InlineJavascriptRequirement: {}
+  
 steps:
   '1':
     run: read-potential-cases-disc.cwl
